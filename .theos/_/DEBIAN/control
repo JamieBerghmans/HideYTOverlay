@@ -1,0 +1,10 @@
+Package: com.devvix.hideytoverlay
+Name: HideYTOverlay
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hide the background behind the YouTube overlay!
+Maintainer: Devvix
+Author: Devvix
+Section: Tweaks
+Version: 1.0.0-3+debug
+Installed-Size: 200
